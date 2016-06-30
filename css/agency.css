@@ -12,7 +12,7 @@ a{color:#fed136}
 a:hover,a:focus,a:active,a.active{
 color:#fec503
 }
-h1,h2,h3,h4,h5,h6{font-family:Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
+h1,h2,h3,h4,h5,h6{font-family:Montserrat,"Helvetica Nesue",Helvetica,Arial,sans-serif;text-transform:uppercase;font-weight:700}
 .img-centered{margin:0 auto}.bg-light-gray{background-color:#f7f7f7}.bg-darkest-gray{background-color:#222}
 
 .btn-primary:hover,.btn-primary:focus,.btn-primary:active,.btn-primary.active,.open .dropdown-toggle.btn-primary{color:#fff;background-color:#fec503;border-color:#f6bf01}
@@ -38,7 +38,7 @@ font-weight:400;letter-spacing:1px;color:#fff}
   
 }
                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                .navbar-default.navbar-shrink .navbar-brand{font-size:1.5em}}
-header{background-image:url(../img/sudesh kumar.jpg);
+header{background-image:url(../img/shade.jpg);
 background-repeat:none;
 background-attachment:scroll;
 background-position:center center;-webkit-background-size:cover;-moz-background-size:cover;background-size:cover;-o-background-size:cover;text-align:center;color:#fff}
